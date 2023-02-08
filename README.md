@@ -6,7 +6,6 @@
 <div align = "center">
 <p align="center">
 <p align="centre"> 
-<a href="mailto: itzayushh18@gmail.com"> <img width="30px" src="https://github.com/ItsAyushh/ItsAyushh/blob/main/icons8-email-100.png" title="Email"/> </a><br>
 </p>
 
 ## 🔖 My Statistics
