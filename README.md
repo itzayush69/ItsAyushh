@@ -8,6 +8,11 @@
 <p align="centre"> 
 </p>
 
+<p align="center">
+  <a href="https://github.com/ItsAyushh">
+    <img alt="followers" title="Follow Me" src="https://img.shields.io/github/followers/ItsAyushh?color=bf51d3&labelColor=ce58e4&style=for-the-badge&logo=github&label=Follow%20me"/></a>
+</p>    
+
 ## 🔖 My Statistics
 &nbsp;
 <p align="center">
